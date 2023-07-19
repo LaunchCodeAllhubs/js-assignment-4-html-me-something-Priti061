@@ -2,7 +2,7 @@
 body {
     font-family: Verdana;
     background-color:#ebebeb;
-    font-size:14px;
+    font-size:16px;
     font-weight: 400;
     color: black;
     width: 100vw;
@@ -37,7 +37,7 @@ section {
 
 img {
     width: 400px;
-    margin: 10px opx;
+    margin: 20px opx;
 }
 
 .photo-list {
