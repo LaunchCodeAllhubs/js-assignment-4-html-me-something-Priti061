@@ -8,8 +8,8 @@ body {
     width: 100vw;
     height: 100vh;
     margin: 8px;
-    padding:0px;
-    display:block;
+    padding: 0px;
+    display: block;
     overflow-x: hidden;
 }
 #mainHeading {
